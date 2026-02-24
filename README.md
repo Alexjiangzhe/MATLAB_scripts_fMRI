@@ -19,7 +19,7 @@ If you would like to request access or discuss the scripts, please reach out to 
 
 * Or simply open an **Issue** in this repository.
 
-## 🛠️ Environment & Dependencies
+## Environment & Dependencies
 To run the scripts, the following environments/toolboxes are typically required:
 * **MATLAB**
 * **SPM12** (Statistical Parametric Mapping)
